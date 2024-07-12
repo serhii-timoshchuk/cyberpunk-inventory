@@ -1,0 +1,9 @@
+fastapi==0.111.0
+sqlalchemy==2.0.31
+asyncpg==0.29.0
+uvicorn==0.30.1
+alembic==1.13.2
+psycopg2-binary
+pyjwt[crypto]==2.8.0
+passlib[bcrypt]==1.7.4
+flake8==7.1.0
